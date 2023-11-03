@@ -1,0 +1,16 @@
+iframe {
+  width: 100%;
+  object-fit: fill;
+  border-radius: 10px 10px 0 0;
+}
+
+.video_card {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
+    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  border-radius: 10px;
+  border: 1px solid red;
+}
+
+.light_text {
+  opacity: 0.5;
+}
