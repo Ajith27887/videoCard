@@ -9,8 +9,7 @@ function CardButtons({ setpageRaw, pageRaw, totalPages }) {
   const rightHandler = () => {
     setpageRaw(pageRaw + 1);
   };
-  console.log(pageRaw + 1);
-  console.log(pageRaw);
+
   return (
     <>
       <div className=" d-flex justify-content-center mb-2">
